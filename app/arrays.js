@@ -4,6 +4,7 @@
 // output: ['is', 'a', 'split', 'sentence.', 'This']
 
 function rearranger(arr) {
+    array.shift
 }
 
 
